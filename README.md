@@ -52,7 +52,7 @@ The Power BI dashboard includes:
 
 ## 🤝 Let's Connect  
 - **LinkedIn**: [https://www.linkedin.com/in/lakshit-poojari/](https://www.linkedin.com/in/lakshit-poojari/)  
-- **GitHub**: [lakshitpoojari](https://github.com/Lakshit-Poojari)
+- **GitHub**: [lakshit_poojari](https://github.com/Lakshit-Poojari)
 - **Email**: [lakshitp.2110@gmail.com](lakshitp.2110@gmail.com)  
 
 ---
